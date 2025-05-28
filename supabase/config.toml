@@ -1,0 +1,24 @@
+
+project_id = "uhqijmrxfzcnkfxjmnpi"
+
+[api]
+enabled = true
+port = 54321
+schemas = ["public", "storage"]
+
+[db]
+port = 54322
+
+[realtime]
+enabled = true
+
+[auth]
+enabled = true
+site_url = "http://localhost:3000"
+
+[storage]
+enabled = true
+
+[functions]
+[functions.send-contact-email]
+verify_jwt = false
