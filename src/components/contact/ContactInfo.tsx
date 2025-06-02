@@ -49,7 +49,7 @@ const ContactInfo = () => {
         </div>
 
         <div className="mt-8">
-          <h3 className="font-semibold mb-3">Connect With Us</h3>
+{/*           <h3 className="font-semibold mb-3">Connect With Us</h3> */}
 {/*           <div className="flex space-x-4">
             <SocialLink href="#" icon="facebook" />
             <SocialLink href="#" icon="twitter" />
