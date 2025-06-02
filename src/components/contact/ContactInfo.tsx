@@ -50,11 +50,11 @@ const ContactInfo = () => {
 
         <div className="mt-8">
           <h3 className="font-semibold mb-3">Connect With Us</h3>
-          <div className="flex space-x-4">
+{/*           <div className="flex space-x-4">
             <SocialLink href="#" icon="facebook" />
             <SocialLink href="#" icon="twitter" />
             <SocialLink href="#" icon="linkedin" />
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
